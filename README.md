@@ -47,6 +47,6 @@ Overall, the project demonstrates how NLP techniques can effectively uncover pat
 ---
 
 ## Files
-- `notebooks/[filename].ipynb` - Main analysis notebook
-- `data/[filename].csv` - Raw dataset
-- `output/figures/` - Output plots and visualizations
+- `notebooks/[News_Analysis_Report].ipynb` - Main analysis notebook
+- `data/[news_data].csv` - Raw dataset
+- `figures/keyword_trend` - Output plots and visualizations
