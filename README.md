@@ -30,7 +30,7 @@ Overall, this project highlights how Python-based tools can be used to turn raw 
 - **Source:** Generated Synthetic data using Python
 - **Rows:** 300
 - **Columns:** date, title , content, source
-- 
+  
 ---
 
 ## Key Findings (Summary)
@@ -47,6 +47,6 @@ Overall, the project demonstrates how NLP techniques can effectively uncover pat
 ---
 
 ## Files
-- `notebooks/[News_Analysis_Report].ipynb` - Main analysis notebook
-- `data/[news_data].csv` - Raw dataset
-- `figures/keyword_trend` - Output plots and visualizations
+- News_Analysis_Report.ipynb - Main analysis notebook
+- news_data.csv - Raw dataset
+- figures - Output plots and visualizations
